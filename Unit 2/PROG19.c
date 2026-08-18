@@ -1,3 +1,6 @@
+/* Write a program which performs the following operations using a simple queue: insert()->delete()->display().
+Name:Maitrik Khunt
+Enrollment no.:92500527107 */
 #include<stdio.h>
 #define MAX 5
 
