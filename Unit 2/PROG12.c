@@ -1,3 +1,6 @@
+/* Write a program to find out the factorial of a number using recursion(stack).
+Name:Maitrik Khunt
+Enrollment no.:92500527107 */
 #include<conio.h>
 int factorial(int n);
 void main()
