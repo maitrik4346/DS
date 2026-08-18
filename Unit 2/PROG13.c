@@ -1,3 +1,6 @@
+/*Write a program to print strings in reverse order using stack.
+Name:Maitrik Khunt
+Enrollment no.:92500527107 */
 #include <stdio.h>
 #define MAX 20
 
