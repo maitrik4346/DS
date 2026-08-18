@@ -1,3 +1,6 @@
+/* Write a program to find GCD of two numbers.
+Name:Maitrik Khunt
+Enrollment no.:92500527107 */
 #include <stdio.h>
 #define MAX 100
 
