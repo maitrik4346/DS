@@ -1,6 +1,6 @@
 /* Create arrays A,B and C of size 3, perform C=A+B.
-Name:Daksh Zala
-Enrollment no.:92500527106 */
+Name:Maitrik Khunt
+Enrollment no.:92500527107*/
 
 #include<stdio.h>
 
