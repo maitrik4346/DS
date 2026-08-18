@@ -1,3 +1,6 @@
+/* Write a program to find Minimum and Maximum numbers from the given array with recursion.
+Name:Maitrik Khunt
+Enrollment no.:92500527107 */
 #include<stdio.h>
 void findMinMax(int arr[],int n,int index,int *min,int *max);
 void main()
