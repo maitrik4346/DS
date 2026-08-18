@@ -1,3 +1,6 @@
+/* Write a program to find Minimum and Maximum numbers from the given array without recursion.
+Name:Maitrik Khunt
+Enrollment no.:92500527107*/
 #include<stdio.h>
 
 void main()
