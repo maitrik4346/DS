@@ -1,3 +1,6 @@
+/*Create arrays A,B and C of size 6 , merge A and B into C.
+Name:Maitrik Khunt
+Enrollment no.:92500527107*/
 #include<stdio.h>
 void main()
 {
