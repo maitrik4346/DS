@@ -1,6 +1,6 @@
 /* Write a program to find the smallest common divisor of a given number.
-Name:Tanviba Zala
-Enrollment no.:92500527103 */
+Name:Maitrik Khunt
+Enrollment no.:92500527107 */
 
 #include <stdio.h>
 #define MAX 20
